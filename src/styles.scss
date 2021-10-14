@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('http://fonts.cdnfonts.com/css/netflix-sans%27');
+
+*{
+    margin:0;
+    text-decoration: none;
+    list-style-type: none;
+}
+body{
+    margin:0;
+    padding: 0;
+    background-color: #161a1d;
+    font-family: 'netflix-sanz';
+}

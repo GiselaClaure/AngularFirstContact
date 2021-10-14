@@ -1,0 +1,29 @@
+div{
+    background-color: #161a1d;
+    margin:0;
+}
+.title{
+    max-width: 90%;
+    color: white;
+    margin: 20px;
+    padding-left: 10px;
+    margin-top: 20px;
+    color:white;
+}
+.hero__container{
+    margin: 25px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 95%;
+   
+}
+.topFilms{
+    display: flex;
+    justify-content: space-around;
+    object-fit: cover;
+    width: 200px;
+    max-width: 80%;
+    height: 100%;
+}
